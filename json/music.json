@@ -1,0 +1,79 @@
+[
+    {
+        "artist": "System of a Down",
+        "title": "Chop Suey!",
+        "src": "chop_suey.mp3",
+        "album": "System",
+        "image": "chop_suey.jpg"
+    },
+    {
+        "artist": "Green Day",
+        "title": "Basket Case",
+        "src": "basket_case.mp3",
+        "album": "Best of Green Day",
+        "image": "basket_case.jpg"
+    },
+    {
+        "artist": "Wu-Tang Clan",
+        "title": "Protect Ya Neck",
+        "src": "protect_ya_neck.mp3",
+        "album": "Enter The Wu-Tang",
+        "image": "protect_neck.jpg"
+    },
+    {
+        "artist": "Eminem",
+        "title": "Lose Yourself",
+        "src": "lose_yourself.mp3",
+        "album": "8 Mile",
+        "image": "lose_yourself.jpg"
+    },
+    {
+        "artist": "Gorillaz",
+        "title": "Clint Eastwood",
+        "src": "clint_eastwood.mp3",
+        "album": "Demon Days",
+        "image": "clint_eastwood.jpg"
+    },
+    {
+        "artist": "Wu-Tang Clan",
+        "title": "Method Man",
+        "src": "method_man.mp3",
+        "album": "Enter The Wu-Tang",
+        "image": "method_man.jpg"
+    },
+    {
+        "artist": "Nirvana",
+        "title": "Smells Like Teen Spirit",
+        "src": "teen_spirit.mp3",
+        "album": "Nevermind",
+        "image": "teen_spirit.jpg"
+    },
+    {
+        "artist": "Queen",
+        "title": "Bohemian Rhapsody",
+        "src": "bohemian_rhapsody.mp3",
+        "album": "A Night at the Opera",
+        "image": "bohemian_rhapsody.jpg"
+    },
+    {
+        "artist": "Eminem",
+        "title": "Godzilla",
+        "src": "godzilla.mp3",
+        "album": "2020",
+        "image": "godzilla.jpg"
+    },
+    {
+        "artist": "The White Stripes",
+        "title": "Seven Nation Army",
+        "src": "seven_nation.mp3",
+        "album": "Elephant",
+        "image": "seven_nation.jpg"
+    },
+    {
+        "artist": "DJ Snake",
+        "title": "Run It!",
+        "src": "run_it.mp3",
+        "album": "Shang-Chi Album",
+        "image": "run_it.jpg"
+    }
+]

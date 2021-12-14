@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+<div class="player">
+    <div class="container">
+        <audio src="" id="audio"></audio>
+        <div class="img_container">
+            <img src="images/black.jpg" alt="">
+            <span></span>
+        </div>
+        <div class="nav_container">
+            <button class="action_btn" id="random">
+                <i class="fas fa-random"></i>
+            </button>
+            <button class="action_btn" id="prev">
+                <i class="fas fa-backward"></i>
+            </button>
+            <button class="action_btn play_btn" id="play">
+                <i id="play_icon" class="fas fa-play"></i>
+            </button>
+            <button class="action_btn" id="next">
+                <i class="fas fa-forward"></i>
+            </button>
+            <button class="action_btn" id="repeat">
+                <i class="fas fa-redo"></i>
+            </button>
+        </div>
+    </div>
+    <div class="second_container">
+        <div class="music_info">
+            <h2 id="title"></h2>
+            <h3 id="artist"></h3>
+            <h4 id="album"></h4>
+        </div>
+        <div class="prog_vol">
+            <div class="volume">
+                <i class="fa fa-volume-down"></i>
+                <input type="range" min="1" max="100" value="1" id="volume_level">
+                <i class="fa fa-volume-up"></i>
+            </div>
+            <div id="track_time">
+                <div id="current_time">00:00</div>
+                <input type="range" value="0" min="" max="" class="progress_slider">
+                <div id="track_length">00:00</div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+
+</body>
+<!-- <script src="https://cdn.jsdelivr.net/gh/foobar404/wave.js/dist/bundle.iife.js"></script> -->
+<script src="app.js"></script>
+
+</html>
